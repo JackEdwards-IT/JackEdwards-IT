@@ -2,7 +2,7 @@
 IT student working with various programming languages with a current focus on full stack development.
 
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jackedwards-it&layout=compact&langs_count=10)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jackedwards-it&layout=compact&langs_count=10&hide=PHP)
 
 <!--
 **JackEdwards-IT/JackEdwards-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
