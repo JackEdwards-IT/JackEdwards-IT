@@ -1,5 +1,5 @@
 # Hi 👋 I'm Jack Edwards
-IT student working with various programming languages with a current focus on full stack development.
+IT graduate working with various programming languages with a current focus on full stack development.
 
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jackedwards-it&layout=compact&langs_count=10&hide=PHP)
