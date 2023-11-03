@@ -1,4 +1,4 @@
-# Hi 👋 I'm Jack Edwards
+# Hi 👋 I'm Jack
 Javascript developer.
 
 
